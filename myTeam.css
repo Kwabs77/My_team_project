@@ -843,7 +843,10 @@ margin-left: 10px;
   }
 
 
-
+    
+  .mobile-menu-container{
+    display: none;
+  }
 
 
   @media screen and (max-width:1400px){
