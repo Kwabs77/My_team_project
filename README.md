@@ -1,5 +1,5 @@
 # My Team Project
-This company landing page was built with HTML and CSS. 
+The my team project website was built with HTML, CSS and JavaScript. 
 
 ## Getting Started 
 ### Opening the Project
