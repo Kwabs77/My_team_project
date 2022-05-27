@@ -1,5 +1,7 @@
 *{
     box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 
 
@@ -1246,7 +1248,7 @@ margin-left: 10px;
         top:0;
         left: 0;
         width: 100%;
-        height:260%;
+        height: 300%;
         background-color: rgba(0,0,0,0.5);
         min-width: 360px;
         
@@ -1265,6 +1267,7 @@ margin-left: 10px;
         background-image: url(./assets/bg-pattern-about-1-mobile-nav-1.svg);
         background-repeat: no-repeat;
          background-position:right -100px top 465px;
+         min-width: 150px;
       }
 
         .mobile-menu-header{
@@ -1301,6 +1304,8 @@ margin-left: 10px;
           cursor: pointer;
           color: #fff;
           width: 100%;
+          min-width: 100%;
+          
     
 
         }
